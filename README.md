@@ -1,0 +1,2 @@
+# mit
+My class stuff
